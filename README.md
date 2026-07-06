@@ -1,2 +1,2 @@
 # over-your-head
-space trash tracker
+whimsical space trash tracker
